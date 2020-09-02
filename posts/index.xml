@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Technosoul</title>
+    <title>Posts on Technosoul ¬¬</title>
     <link>https://rodrigomg.github.io/posts/</link>
-    <description>Recent content in Posts on Technosoul</description>
+    <description>Recent content in Posts on Technosoul ¬¬</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2020 20:08:41 -0500</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>My Second Post</title>
+      <title>Rust Post</title>
       <link>https://rodrigomg.github.io/posts/my-second-post/</link>
       <pubDate>Tue, 01 Sep 2020 20:08:41 -0500</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>My First Post</title>
+      <title>Elixir Post</title>
       <link>https://rodrigomg.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 01 Sep 2020 19:39:59 -0500</pubDate>
       
